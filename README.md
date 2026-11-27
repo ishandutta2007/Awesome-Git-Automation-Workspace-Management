@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Git-Automation-Workspace-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Automation-Workspace-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Git-Automation-Workspace-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Automation-Workspace-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Git-Automation-Workspace-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Git-Automation-Workspace-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -70,7 +70,7 @@ While cloud Git/CI hosting platforms exhibit **strong winner-take-most consolida
 
 *Sorted descending by real-time GitHub stargazer count.*
 
-| 📦 Repository & Stars | 🏷️ Category | 📜 License | 📝 Description |
+| 📦 Repository & GitHub_Stars | 🏷️ Category | 📜 License | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)**<br>[![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social&color=white)](https://github.com/jesseduffield/lazygit/stargazers) | ⚡ Terminal & TUI Git Client | `GPL-3.0 / MIT` | 🗂️ Simple and elegant terminal UI for git commands written in Go, providing fast interactive staging, commit graphing, and rebasing. |
 | **[nektos/act](https://github.com/nektos/act)**<br>[![Stars](https://img.shields.io/github/stars/nektos/act?style=social&color=white)](https://github.com/nektos/act/stargazers) | 🐳 Local CI/CD Runner | `MIT` | 🚀 Run your GitHub Actions locally inside Docker containers for rapid testing, instant pipeline debugging, and zero cloud build costs. |
